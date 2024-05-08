@@ -9,3 +9,7 @@ Formulario de búsqueda: El formulario de búsqueda permite a los usuarios busca
 Sección principal para resultados: El sitio incluye una sección para mostrar películas populares y resultados de búsqueda.
 
 # Herramientas utilizadas
+
+![Static Badge](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
