@@ -1,4 +1,4 @@
-# Directorio-de-Peliculas con API de The Movie Database (TMDB)
+# Directorio de Peliculas con API de The Movie Database (TMDB)
 
 Este proyecto es un sitio web básico que permite a los usuarios buscar y ver películas utilizando la API de The Movie Database (TMDB). 
 El sitio incluye una barra de navegación con funcionalidad de búsqueda y una sección principal para mostrar resultados. Utiliza JavaScript para interactuar con la API, cargar películas populares y realizar búsquedas.
